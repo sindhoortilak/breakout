@@ -7,6 +7,7 @@
 //
 
 #include "Breakout.h"
+#include <stdio.h>
 
 using namespace std;
 
